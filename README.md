@@ -19,8 +19,8 @@ b-313.github.io/
 ├── .gitattributes
 └── assets/
     ├── certificates/                    
-    ├── ai-readiness-cover.png
-    ├── ai-readiness-demo.mp4
+    ├── workbench.png
+    ├── workbench-demo.mp4
     ├── csm-badge.png
     ├── cx-ai-cover.jpg
     ├── cx-ai-demo.mp4
