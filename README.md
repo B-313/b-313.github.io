@@ -3,9 +3,7 @@
 **MSc Data Science & AI Student | University of Liverpool**
 
 ### Explore the Portfolio
-→ [Live Site](https://b-313.github.io)
-
-Built with love, clean design, and just the right amount of sparkle.
+→ [Live Site](https://b-313.github.io/) or copy paste this **https://b-313.github.io/**
 
 ## Portfolio
 This is a single standalone static `index.html` which contains my story, career trajectory and projects.
