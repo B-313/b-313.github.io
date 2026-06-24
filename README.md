@@ -17,17 +17,7 @@ b-313.github.io/
 ├── .nojekyll
 ├── .gitattributes
 └── assets/
-    ├── certificates/                    
-    ├── workbench.png
-    ├── workbench-demo.mp4
-    ├── csm-badge.png
-    ├── cx-ai-cover.jpg
-    ├── cx-ai-demo.mp4
-    ├── cx-ai-ideation-strategy.pdf
-    ├── grok-gernated-video-background.mp4
-    ├── headshot.png
-    ├── roboautochem.mp4
-    └── Root_Cause_Analysis.pdf
+    └── certificates/                    
 ```
 
 ## License
