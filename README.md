@@ -14,7 +14,6 @@ This is a single standalone static `index.html` which contains my story, career 
 b-313.github.io/
 ├── index.html
 ├── README.md
-├── LICENSE
 ├── .nojekyll
 ├── .gitattributes
 └── assets/
